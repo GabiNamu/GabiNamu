@@ -1,4 +1,4 @@
-### Oi! eu sou a Gabriela Muniz
+### <h1 align="center">Oi! eu sou a Gabriela Muniz</h1>
 
 - 🔭 Estudante de desenvolvimento web na trybe 
 - 🌱 Estudando react hooks e context api
@@ -11,7 +11,7 @@
 </div>
   <hr />
   
-  <h1 align="center" style="color: pink">Tecnologias e ferramentas que estou aprendendo:</h1>
+  <h1 align="center" color: "#FFC0CB">Tecnologias e ferramentas que estou aprendendo:</h1>
   
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,6 +33,13 @@
 
 ##
   <h1 align="center">Como me contatar:</h1>
+  <div align="center">
+    <img
+      src="https://i.pinimg.com/originals/b4/a9/d1/b4a9d1073a977551322346938d990773.gif"
+      alt="hellokitty digitando"
+      width="300"
+    />
+  </div>  
 
 <div align="center">
   <a href = "mailto:gabrielanamu@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
