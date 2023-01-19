@@ -1,4 +1,4 @@
-### Olá! eu sou a Gabriela Muniz
+### Oi! eu sou a Gabriela Muniz
 
 - 🔭 Estudante de desenvolvimento web na trybe 
 - 🌱 Estudando react hooks e context api
@@ -9,6 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabiNamu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiNamu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  <p color="purple">Tecnologias e ferramentas que estou aprendendo:</p>
   
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
