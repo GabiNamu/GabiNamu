@@ -11,7 +11,7 @@
 </div>
   <hr />
   
-  <p align="center" style="color: pink">Tecnologias e ferramentas que estou aprendendo:</p>
+  <h1 align="center" style="color: pink">Tecnologias e ferramentas que estou aprendendo:</h1>
   
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,10 +34,12 @@
 ##
   <h1 align="center">Como me contatar:</h1>
 
-<div>
+<div align="center">
   <a href = "mailto:gabrielanamu@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielanamu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+  
+  <hr />
   
   ![Snake animation](https://github.com/GabiNamu/GabiNamu/blob/output/github-contribution-grid-snake.svg)
