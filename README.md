@@ -1,7 +1,7 @@
 ### Olá! eu sou a Gabriela Muniz
 
 - 🔭 Estudante de desenvolvimento web na trybe 
-- 🌱 Estudando redux
+- 🌱 Estudando react hooks e context api
 - 😄 Pronouns: ela/dela
 
 <div align="center">
