@@ -32,6 +32,7 @@
 </div>
 
 ##
+  <h1 align="center">Como me contatar:</h1>
 
 <div>
   <a href = "mailto:gabrielanamu@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
