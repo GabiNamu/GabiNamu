@@ -9,6 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabiNamu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiNamu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
   <hr />
   
   <h1 align="center" color: "#FFC0CB">Tecnologias e ferramentas que estou aprendendo:</h1>
@@ -24,27 +25,19 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-<div style="display: inline_block"><br>
-<!--   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-</div>
-
 ##
   <h1 align="center">Como me contatar:</h1>
   <div align="center">
     <img
       src="https://i.pinimg.com/originals/b4/a9/d1/b4a9d1073a977551322346938d990773.gif"
       alt="hellokitty digitando"
-      width="300"
+      width="250"
     />
   </div>  
 
 <div align="center">
   <a href = "mailto:gabrielanamu@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielanamu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
   
   <hr />
