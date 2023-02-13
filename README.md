@@ -31,6 +31,10 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+  
+### Currently learning: 
+ ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b13583&height=120&section=footer"/>
 
   ![Snake animation](https://github.com/GabiNamu/GabiNamu/blob/output/github-contribution-grid-snake.svg)
