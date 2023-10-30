@@ -20,6 +20,11 @@
   <a href="https://www.linkedin.com/in/gabrielanamu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+### About me:
+
+Minha trajetória é guiada por uma mente inquieta, impulsionada pela criatividade e curiosidade. 
+Inicialmente, essas características me direcionaram para o design, onde pude expressar minha criatividade no cotidiano. Contudo, minha busca por desafios e meu desejo insaciável por conhecimento me levaram a novos horizontes. Minha trajetória se expandiu quando me aventurei no design 3D e, posteriormente, mergulhei de cabeça no mundo da programação. Desde então, descobri que minha paixão não se limita a criar, mas também a aprender constantemente. Tecnologia tornou-se minha aliada, pois percebo que ela é a força motriz por trás da inovação. A busca por novas soluções e a capacidade de impactar o mundo através do desenvolvimento de software mantêm minha mente curiosa em constante movimento. Na programação, sempre há algo novo para explorar, o que torna esse universo fascinante para mim.
+
 ### Main skills:
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
